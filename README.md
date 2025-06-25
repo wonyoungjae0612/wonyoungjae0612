@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:62c3f4,100:1d00fa&height=120&text=Won%20Youngjae&animation=twinkling&fontColor=3d3d3d&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:62c3f4,100:1d00fa&height=120&text=Won%20Youngjae&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Who Am I </h2>  
